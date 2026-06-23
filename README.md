@@ -16,7 +16,7 @@ Perencanaan dan Implementasi Basis Data Pada Sistem Reservasi Hotel Dengan Mengg
 Perencanaan dan Implementasi Basis Data Pada Sistem Reservasi Hotel Menggunakan MySQL merupakan proyek yang berfokus pada perancangan dan pembangunan sistem basis data relasional untuk mengelola proses reservasi hotel secara terintegrasi. Sistem ini mencakup pengelolaan data tamu, kamar, tipe kamar, reservasi, check-in, check-out, fasilitas, serta transaksi pembayaran dengan menerapkan konsep ERD, normalisasi hingga 3NF, dan implementasi objek basis data lanjutan pada MySQL.
 
 ## ERD
-
+![ERD](erd.png)
 
 
 ## Struktur Folder
